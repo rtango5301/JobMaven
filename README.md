@@ -4,4 +4,4 @@ querying capabilities.
 
 
 • Engineered the backend architecture using the Java Spring Boot framework, leveraging Swagger API for
-comprehensive functionality testing, and developed the frontend interface with React.js
+comprehensive functionality testing, and developed the frontend interface with React.js(in progress)
